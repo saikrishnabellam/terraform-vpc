@@ -5,7 +5,7 @@ steps to create infrastructure
 3. terraform apply
 
 
-Resorces that are created using this script
+#Resorces that are created using this script
 1)vpc-1
 2)subnets-3 private,3 public
 3)security-group
