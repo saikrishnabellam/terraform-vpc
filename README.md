@@ -6,12 +6,18 @@ steps to create infrastructure
 
 
 Resorces that are created using this script
-1.vpc-1
-2.subnets-3 private,3 public
-3.security-group
-4.route_table
-5.nat_gateway
-6.ec2 instance
-7.internet_gateway
-8.cloudwatch
-9.autoscaling
+1)vpc-1
+2)subnets-3 private,3 public
+3)security-group
+4)route_table
+5)nat_gateway
+6)ec2 instance
+7)internet_gateway
+8)cloudwatch
+9)autoscaling
+
+
+
+To destroy infrastructure
+
+# terraform destroy
