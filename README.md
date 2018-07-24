@@ -6,12 +6,12 @@ steps to create infrastructure
 
 
 Resorces that are created using this script
-vpc-1
-subnets-3 private,3 public
-security-group
-route_table
-nat_gateway
-ec2 instance
-internet_gateway
-cloudwatch
-autoscaling
+1.vpc-1
+2.subnets-3 private,3 public
+3.security-group
+4.route_table
+5.nat_gateway
+6.ec2 instance
+7.internet_gateway
+8.cloudwatch
+9.autoscaling
